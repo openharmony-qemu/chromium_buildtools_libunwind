@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_ukey2",                   # 上游开源软件名全称
+        "Name": "libunwind",                   # 上游开源软件名全称
         "License": "GPL-2.0+-with-LLVM-exception",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT"     # 许可证所在文件路径
         "Version Number": "295f84c04f3dd0ee8fb9be37d78d96b80ba27979",
