@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "libunwind",                   # 上游开源软件名全称
+        "License": "GPL-2.0+-with-LLVM-exception",         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE.TXT"     # 许可证所在文件路径
+        "Version Number": "295f84c04f3dd0ee8fb9be37d78d96b80ba27979",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind.git@295f84c04f3dd0ee8fb9be37d78d96b80ba27979",   # 上游软件包发布地址
+        "Description": "Chromium 编译unwind库"           # 开源软件功能描述
+    }
+]
