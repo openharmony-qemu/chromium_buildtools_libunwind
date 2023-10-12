@@ -73,7 +73,7 @@ used to filter file path.
 
             <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
-                    desc="" />
+                    desc="Filter Readme.opensource files" />
             </filefilter>
         </filefilterlist>
     </oatconfig>
