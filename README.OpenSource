@@ -1,20 +1,11 @@
 [
     {
-        "Name": "libunwind",
-        "License": "Apache-2.0",
+        "Name": "llvm-project",
+        "License": "Apache License v2.0 with LLVM Exceptions",
         "License File": "LICENSE.TXT",
         "Version Number": "295f84c04f3dd0ee8fb9be37d78d96b80ba27979",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind.git@295f84c04f3dd0ee8fb9be37d78d96b80ba27979",
-        "Description": "Chromium 编译unwind库"
-    },
-    {
-        "Name": "libunwind",
-        "License": "LLVM-exception",
-        "License File": "LICENSE.TXT",
-        "Version Number": "295f84c04f3dd0ee8fb9be37d78d96b80ba27979",
-        "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind.git@295f84c04f3dd0ee8fb9be37d78d96b80ba27979",
-        "Description": "Chromium 编译unwind库"
+        "Description": "Chromium 编译unwind库,基于操作系统提供的堆栈信息"
     }
 ]
