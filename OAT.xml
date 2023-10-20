@@ -62,7 +62,7 @@ used to filter file path.
     <oatconfig>
         <policylist>
             <policy name="projectPolicy" desc="">
-                <policyitem type="compatibility" name="GPL-2.0+-with-LLVM-exception" path="LICENSE.TXT" desc="" /> 
+                <policyitem type="compatibility" name="GPL-2.0+-with-LLVM-exception" path="LICENSE.TXT" desc="经法务确认,涉及文件在render进程进行了隔离" /> 
             </policy>
         </policylist>
         <filefilterlist>
@@ -73,7 +73,7 @@ used to filter file path.
 
             <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
-                    desc="" />
+                    desc="Filter Readme.opensource files" />
             </filefilter>
         </filefilterlist>
     </oatconfig>
