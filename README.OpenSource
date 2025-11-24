@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "llvm-project",
+        "License": "Apache License v2.0 with LLVM Exceptions",
+        "License File": "LICENSE",
+        "Version Number": "5b01ea4a6f3b666b7d190e7cb7c31db2ed4d94ce",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libunwind.git@5b01ea4a6f3b666b7d190e7cb7c31db2ed4d94ce",
+        "Description": "Chromium 编译unwind库,基于操作系统提供的堆栈信息"
+    }
+]
